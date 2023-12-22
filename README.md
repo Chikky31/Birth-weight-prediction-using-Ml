@@ -1,6 +1,6 @@
 # Birth-weight-prediction-using-Ml
 
-Department of Computer Science and Information Technology ,KIET Group Og Instituion Ghaziabad, APJ Abdul Kalam Technological University.
+Department of Computer Science and Information Technology ,KIET Group Of Instituion Ghaziabad,  Dr.APJ Abdul Kalam Technological University,Lucknow.
 
 Introduction to the Birth Weight Prediction Machine Learning Project
 
